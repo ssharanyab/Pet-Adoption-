@@ -1,16 +1,18 @@
-# pet_adoption
+# Pet Adoption App
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Home Screen
+* Pet Details Screen
+* Pet History Screen
+* Search pet with name or breed
+* Dark Mode support included
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![](assets/img1.png)
+![](assets/img2.png)
+![](assets/img3.png)
+![](assets/img4.png)
