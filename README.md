@@ -1,7 +1,6 @@
 # Pet Adoption App
 
-A new Flutter project.
-
+This is a simple app that allows you to adopt a pet. 
 
 ## Features
 
